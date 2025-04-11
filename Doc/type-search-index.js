@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Dither","l":"Atkinson"},{"p":"Dither","l":"ColorComponent"},{"p":"Dither","l":"ColorsCollection"},{"p":"Dither","l":"Dithering"},{"p":"Dither","l":"FloydSteinberg"},{"p":"Dither","l":"Palette"},{"p":"Dither","l":"ScatteringMat"},{"p":"Dither","l":"UniversalMat"}];updateSearchResults();
